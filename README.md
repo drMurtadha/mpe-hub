@@ -42,6 +42,14 @@ Untuk melihat pautan storan, jalankan fungsi `getStorageLinks()` sekali dalam ed
 
 Fail ini ialah aplikasi statik dan tidak memerlukan proses build.
 
+## Dokumentasi latihan
+
+- [Dokumentasi web](https://drmurtadha.github.io/mpe-hub/docs.html)
+- [Nota latihan PDF](https://drmurtadha.github.io/mpe-hub/downloads/Nota_Latihan_MPE_Hub.pdf)
+- [Slaid latihan PPTX](https://drmurtadha.github.io/mpe-hub/downloads/Slaid_Latihan_MPE_Hub.pptx)
+
+Bahan ini disediakan sebagai kajian kes praktikal untuk Bengkel Transformasi Digital dan Pemerkasaan Operasi Pintar Makmal Penyelidikan Elektrik (MPE), CREaTE JKR, 28–29 Julai 2026.
+
 ## Privasi
 
 URL Apps Script membenarkan penghantaran daripada aplikasi GitHub Pages. Gunakan URL hanya dalam repositori yang sesuai untuk organisasi anda. Jika aplikasi perlu dihadkan kepada akaun organisasi sahaja, tukar akses deployment kepada domain Google Workspace dan tambah aliran log masuk yang diluluskan pentadbir.
